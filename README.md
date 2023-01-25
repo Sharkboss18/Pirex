@@ -13,7 +13,7 @@ Safe and secure downloads
 Open the SLN file with Visual Studio 2022 and .NET 4.8. Then create a webhook copy it and go into Form2.cs and replace the "" in the //Logger note with the webhook. Do the same with the report button in UserControls folder.
 
 # Usage
-1. Download and install Pirex
+1. Follow installing section
 2. Launch the app and select the mod you want to download
 3. Click the download button and wait for the mod to finish downloading
 4. The mod will be automatically installed and ready to use in the game
