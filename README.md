@@ -9,7 +9,7 @@ Wide variety of leaked mods to choose from,
 Easy to use interface,
 Safe and secure downloads
 
-#Installing
+# Installing
 Open the SLN file with Visual Studio 2022 and .NET 4.8. Then create a webhook copy it and go into Form2.cs and replace the "" in the //Logger note with the webhook. Do the same with the report button in UserControls folder.
 
 # Usage
