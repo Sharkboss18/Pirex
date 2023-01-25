@@ -1,3 +1,6 @@
+# The Name
+Yeah I know the name is kinda weird. I'm too lazy to change it but, whatever. It does not matter lol.
+
 # Pirex
 Pirex is a mod downloader for the popular games, **Minecraft** and soon to be **BeamNG**. It is different from other mod downloaders as it offers mods that have been leaked by the community. Pirex is developed by Shard who has made it a non-profit project. However, if you wish to support the project, you can do so by gifting Nitro to Shard on our discord server or by boosting the discord server "https://discord.gg/HwMwZHQBhf"
 
