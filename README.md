@@ -10,7 +10,7 @@ Easy to use interface,
 Safe and secure downloads
 
 # Installing
-Open the SLN file with Visual Studio 2022 and .NET 4.8. Then create a webhook copy it and go into Form2.cs and replace the "" in the //Logger note with the webhook. Do the same with the report button in UserControls folder. If you need more help DM Shard.
+Open the SLN file with Visual Studio 2022 and .NET 4.8. Then create a webhook copy it and go into Form2.cs and replace the "" in the //Logger note with the webhook. Do the same with the report button in UserControls folder. If you need more help DM Shard. You may have to Trust the project. You can do this by going into file explorer and on every file that asks for permission just right click on it, press properties, and near the bottom check the trust checkbox.
 
 # Usage
 1. Follow installing section
