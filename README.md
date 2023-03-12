@@ -1,3 +1,5 @@
+# READ
+Pirex has been discountinued for a while now, you may still use this but keep in mind none of the links work. Feel free to join https://discord.gg/HwMwZHQBhf for more info on other apps.
 
 
 # Pirex
